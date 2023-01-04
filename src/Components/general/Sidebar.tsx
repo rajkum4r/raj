@@ -8,7 +8,7 @@ const Sidebar = () => {
                     <div className="icon-bar"> 
                     <a href={'mailto:rkkumarraja91@gmail.com'} className="envelope"><i className="fa fa-envelope"></i></a> 
                     <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/raj-kumar-790968260/" className="linkedin"><i className="fa fa-linkedin"></i></a>
-                    {/* <a target="_blank" rel="noreferrer" href="https://github.com/Sach7n" className="github"><i className="fa fa-github"></i></a>  */}
+                    {/* <a target="_blank" rel="noreferrer" href="https://github.com/" className="github"><i className="fa fa-github"></i></a>  */}
                     
                     </div>
             
