@@ -51,7 +51,7 @@ const experience: experience[] = [
   "Worked in a team to design the schema for the backend and created a database using Node and Mongo", 
     ],
 techs: "Reactjs, Redux, Typescript, Bootstrap, Nodejs, Express, MongoDB, Vults,Digital Ocean",
-  time: "August 2015 - September 2017"
+  time: "August 2015 - September 2019"
   }
 
 ]
